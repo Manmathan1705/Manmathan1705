@@ -1,6 +1,7 @@
 # Hello, I'm Mathan 👋
 
-![DevOps](https://media.giphy.com/media/3o7aD6ZuFz4SxFv2Tq/giphy.gif)
+<img src="https://media.giphy.com/media/3o7aD6ZuFz4SxFv2Tq/giphy.gif" alt="DevOps" width="600"/>
+
 
 
 Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a flair for **Fullstack Development**.
