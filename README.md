@@ -1,6 +1,6 @@
 # Hello, I'm Mathan 👋
 
-![DevOps Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![DevOps Animation](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-readme-activity-graph.svg)
 
 Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a flair for **Fullstack Development**.
 
@@ -42,5 +42,4 @@ Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manmathan1705&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmathan1705&layout=compact&theme=radical)
 
----
 
