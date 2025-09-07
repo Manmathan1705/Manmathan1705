@@ -43,7 +43,3 @@ Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manmathan1705&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmathan1705&layout=compact&theme=radical)
 
----
-
-## ⚡ Fun Animations
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manmathan1705&theme=react-dark&hide_border=true)
