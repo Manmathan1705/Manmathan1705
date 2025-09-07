@@ -1,6 +1,6 @@
 # Hello, I'm Mathan 👋
 
-<img src="https://media.giphy.com/media/3o7aD6ZuFz4SxFv2Tq/giphy.gif" alt="DevOps" width="600"/>
+<img src="https://media.giphy.com/media/3o7aD6ZuFz4SxFv2Tq/giphy.gif" alt="DevOps" width="1500"/>
 
 
 
