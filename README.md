@@ -1,6 +1,7 @@
 # Hello, I'm Mathan 👋
 
-![Pro Coder](https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/master/Pro%20Coder.gif)
+![DevOps](https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg)
+![Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/programming/programming-plain.svg)
 
 Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a flair for **Fullstack Development**.
 
@@ -42,4 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manmathan1705&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmathan1705&layout=compact&theme=radical)
 
+---
 
+## ⚡ Fun Animations
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manmathan1705&theme=react-dark&hide_border=true)
