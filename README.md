@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hello, I'm Mathan 👋
 
-<!--
-**Manmathan1705/Manmathan1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![DevOps Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a flair for **Fullstack Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+- AWS & DevOps Engineer ☁️
+- React & Node.js Developer ⚛️
+- Open Source Contributor 🌐
+- Automation & CI/CD Enthusiast 🤖
+
+---
+
+## 🛠️ Skills
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Programming & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/man-mathan-2b7547166/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manmathan1705&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmathan1705&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun GIFs
+![CI/CD GIF](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+![Cloud GIF](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
