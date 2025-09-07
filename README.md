@@ -1,6 +1,6 @@
 # Hello, I'm Mathan 👋
 
-![DevOps Animation](https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/master/Pro%20Coder.gif)
+![Pro Coder](https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/master/Pro%20Coder.gif)
 
 Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a flair for **Fullstack Development**.
 
