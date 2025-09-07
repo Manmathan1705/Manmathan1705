@@ -1,7 +1,7 @@
 # Hello, I'm Mathan 👋
 
-![DevOps](https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg)
-![Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/programming/programming-plain.svg)
+![DevOps](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg)
+![Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/programming/programming-plain.svg)
 
 Welcome to my GitHub profile! I'm a passionate **AWS & DevOps Engineer** with a flair for **Fullstack Development**.
 
